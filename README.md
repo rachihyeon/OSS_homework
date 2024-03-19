@@ -1,2 +1,2 @@
-# OSS_homework
-Open Source Software class
+- 라치현
+- 2020112137
